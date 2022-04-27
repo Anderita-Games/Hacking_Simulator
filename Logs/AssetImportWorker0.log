@@ -271,3 +271,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 252.225363 seconds.
+  path: Assets/Splash.png
+  artifactKey: Guid(419af4255263e424688bd8c7b5aeafba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Splash.png using Guid(419af4255263e424688bd8c7b5aeafba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e786e2fd2adba39667963e608c57664') in 0.034480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.897887 seconds.
+  path: Assets/Splash.png
+  artifactKey: Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Splash.png using Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8f3f540a6075304eae0abeeb4b9f9f') in 0.006037 seconds 
